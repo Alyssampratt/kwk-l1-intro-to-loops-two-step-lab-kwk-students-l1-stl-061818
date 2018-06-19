@@ -8,5 +8,6 @@ def air_conditioner
 end
 end
 too hot = false 
+break
 end
 air_conditioner
