@@ -1,6 +1,6 @@
-loop do
+3.times do
   puts "right foot back"
   puts "left foot back"
-  puts "right foot in"
-  puts "left foot in"
+  puts "right foot back"
+  puts "stop"
 end
