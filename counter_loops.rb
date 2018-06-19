@@ -18,4 +18,4 @@ moves_completed = moves_completed +1
 puts "you've completed #{moves_completed}"
 end
 end
-cha_cha_slide
+cha_cha_slide(0)
