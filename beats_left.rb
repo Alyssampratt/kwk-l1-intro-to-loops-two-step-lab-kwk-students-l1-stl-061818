@@ -4,12 +4,17 @@ loop do
 if beats_left_in_song==0
   break
 end 
+
   
-end
+puts "slide to the left"
+sleep (1)
+puts "slide to the right"
+sleep (1)
+puts "now kick"
+sleep (1)
   
-  
-  
-  and
+ beats_left_in_song= beats_left_in_song-10 
+  puts "congrats! youve completed #{beats_left_in_song}
   
   
   dance
