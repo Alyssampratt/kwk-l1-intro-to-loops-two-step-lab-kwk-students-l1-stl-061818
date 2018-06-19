@@ -17,3 +17,4 @@ sleep (0.1)
 moves_completed = moves_completed +1
 puts "you've completed #{moves_completed}"
 end
+end
