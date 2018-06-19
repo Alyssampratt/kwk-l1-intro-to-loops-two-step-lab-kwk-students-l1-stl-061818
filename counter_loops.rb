@@ -8,11 +8,11 @@ if moves_completed==10
 end
 
 puts "slide to the left"
-sleep (0.1)
+sleep (1)
 puts "slide to the right"
-sleep (0.1)
+sleep (1)
 puts "and kick"
-sleep (0.1)
+sleep (1)
 
 moves_completed = moves_completed +1
 puts "you've completed #{moves_completed}"
