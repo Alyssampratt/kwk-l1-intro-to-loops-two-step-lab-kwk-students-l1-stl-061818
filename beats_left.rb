@@ -14,7 +14,8 @@ puts "now kick"
 sleep (1)
   
  beats_left_in_song= beats_left_in_song-10 
-  puts "congrats! youve completed #{beats_left_in_song}
-  
+  puts "congrats! you have #{beats_left_in_song} beats left"
+end
+end
   
   dance
