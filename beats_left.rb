@@ -1,10 +1,11 @@
-def cha_cha_slide_beats
+def dance
 beats_left_in_song=60
-
-if 
+loop do 
+if beats_left_in_song==0
+  break
+end 
   
-  
-  and
+end
   
   
   
