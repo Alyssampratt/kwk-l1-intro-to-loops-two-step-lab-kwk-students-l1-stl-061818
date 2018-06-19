@@ -1,4 +1,17 @@
 def cha_cha_slide
 moves_completed =9
+
 loop do 
-if mo
+  
+if moves_completed==10
+  break
+end
+
+puts "slide to the left"
+sleep (0.1)
+puts "slide to the right"
+sleep (0.1)
+puts "and kick"
+sleep (0.1)
+
+end
