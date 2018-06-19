@@ -7,6 +7,6 @@ def air_conditioner
    sleep(2)
 end
 end
-too hot = flase 
+too hot = false 
 end
 air_conditioner
