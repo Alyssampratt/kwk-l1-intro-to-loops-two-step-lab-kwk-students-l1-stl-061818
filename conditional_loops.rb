@@ -5,9 +5,9 @@ def air_conditioner
    if too_hot==true
    puts"turn on the ac"
    sleep(2)
+   break
 end
 end
 too hot = false 
-break
 end
 air_conditioner
