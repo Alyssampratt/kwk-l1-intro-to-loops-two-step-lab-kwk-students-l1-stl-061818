@@ -7,3 +7,4 @@ def air_conditioner
    sleep(2)
 end
 end
+air_conditioner
